@@ -34,8 +34,8 @@ REQUIRED = [
     'pystoi>=0.3.3',
     'six',
     'sounddevice>=0.4',
-    'torch>=1.5',
-    'torchaudio>=0.5',
+    #'torch>=1.5',
+    #'torchaudio>=0.5',
 ]
 
 REQUIRED_LINKS = [
